@@ -16,8 +16,8 @@ body {
         .image-container {
             border: transparent;
             width: auto;
-            height: 37vh;
-            margin-right: 125vh;
+            height: 70%;
+            margin-right: 58%;
             position: relative; /* Añadido para posicionar la imagen respecto a este contenedor */
             
         }
@@ -46,7 +46,7 @@ body {
         }
 
         .image-container h2 {
-            font-size: 75px;
+            font-size: 450%;
             font-family: 'Winter Wishes', sans-serif;
             white-space: nowrap; /* Evita que el text es talli en múltiples línies */
             
@@ -56,7 +56,7 @@ body {
 
         .image-final {
             position: absolute;
-            bottom: 150px;
+            bottom: 16%;
             left: 0;
             right: 0;
             
@@ -64,7 +64,7 @@ body {
         
         .image-final h3{
             color:#ffffff;
-            font-size: 20px;
+            font-size: 120%;
             font-family: 'Winter Wishes', sans-serif;
             white-space: nowrap; /* Evita que el text es talli en múltiples línies */
             margin-left: 650px;
@@ -74,11 +74,11 @@ body {
 
         .walking-icon2 img {
             opacity: 1;
-            height: 230px;
+            height: 25%;
             width: auto;
             position: absolute;
-            bottom: 450px;
-            right: 1400px;
+            bottom: 50%;
+            right: 72.5%;
             animation: shakeY 3s ease-in-out 1s infinite;
             animation-delay: 1s;
         }
