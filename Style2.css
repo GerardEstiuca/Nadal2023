@@ -7,8 +7,9 @@ body {
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 50vh;
-            width: auto;
+            height: auto;
+            width: 100%;
+            max-width: 400px;
             margin: 0;
             overflow: hidden;
         }
